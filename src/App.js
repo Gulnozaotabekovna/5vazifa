@@ -121,7 +121,7 @@ function App() {
                 <h5 class="card-title text-start">Card title</h5>
                 <p class="card-text text-start">
                   Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                  Reiciendis aliquid atque, nulla.
+                  Reiciendis aliquid atque, nulla nulla.
                 </p>
                 <a href="#" class="btn btn-primary">
                   Read more
